@@ -1,0 +1,20 @@
+# ── Rust / Soroban ──────────────────────────────
+contract/target/
+*.wasm
+
+# ── Node / Vite ─────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# ── Secrets ─────────────────────────────────────
+.env
+.env.local
+*.env
+
+# ── Stellar CLI ──────────────────────────────────
+.stellar/
+
+# ── OS ───────────────────────────────────────────
+.DS_Store
+Thumbs.db
