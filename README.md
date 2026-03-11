@@ -75,7 +75,7 @@ fundchain/
 │       └── styles/
 │           └── main.css               # Dark theme UI
 └── tests/
-    └── fundchain.test.js              # 39 JS unit tests
+    └── fundchain.test.js              # 10 JS unit tests
 ```
 
 ---
